@@ -7,6 +7,7 @@ export default function Header() {
             <p className="body-text">
                 Welcome to my portfolio!
             </p>
+            <img className="bigself" src="../src/assets/bigself.jpg"></img>
         </div>
     );
 };

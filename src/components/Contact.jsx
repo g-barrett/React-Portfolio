@@ -6,7 +6,7 @@ export default function Contact() {
             <h2>Contact Me</h2>
             <ul>
                 <li>Phone: 512-669-1843</li>
-                <li>Email: <a href="mailto: barrettg516@gmail.com">Send Email</a></li>
+                <li>Email: <a href="mailto: barrettg516@gmail.com">barrettg516@gmail.com</a></li>
             </ul>
         </p>
         </div>
