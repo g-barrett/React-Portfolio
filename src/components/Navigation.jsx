@@ -5,7 +5,7 @@ function Nav() {
 
     return (
     <div className='backgroundimg'>
-        <img className="" src=""></img>
+        <img className="avatar" src="../src/assets/githubavatar.png"></img>
         <ul>
         <li className="nav">
             <Link to="/" >Home</Link>
